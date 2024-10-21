@@ -23,7 +23,7 @@ def clear_console():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 def request_token():
-    valid_token = "TOKEN123"  # Burada geçerli token'ı belirleyin
+    valid_token = ""  # Burada geçerli token'ı belirleyin
     input_token = input("\033[1;37mLütfen güvenlik token'ını girin => \033[0m")
     return input_token == valid_token
 
