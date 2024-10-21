@@ -1,0 +1,5 @@
+KULLANIM İÇİN GEREKEN KODLAR 
+git clone https://github.com/bygokhanyakut/INSTAGRAMHACK
+ip3 install colorama
+cd INSTAGRAMHACK
+python instagramhack.py
